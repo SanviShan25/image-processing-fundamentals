@@ -1,6 +1,6 @@
 # Image Processing Fundamentals
 
-Python assignment applying basic image processing techniques to a photograph
+Image Processing (Python) assignment applying basic image processing techniques to a photograph
 using OpenCV, NumPy and Matplotlib.
 
 ## Techniques covered
